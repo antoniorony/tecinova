@@ -1,0 +1,24 @@
+.img-card-size {
+    width: 10em;
+    height: 160px;
+}
+
+.img-card-centralize {
+    margin-left: 4.0em;
+}
+
+.tamanho-corpo-card {
+    height: 160px;
+}
+
+.tamanho-texto-card {
+    height: 60px;
+}
+
+.opacidade-background-slidtext {
+    background: rgba(0, 0, 0, 0.55);
+}
+
+.tamanho-imagem-slide {
+    max-height: 361px;
+}
